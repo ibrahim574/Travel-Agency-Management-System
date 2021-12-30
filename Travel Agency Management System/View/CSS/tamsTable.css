@@ -1,0 +1,20 @@
+table.tamsTable {
+    width: 100%;
+    background-color: #2bceb3;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #3b3b3b;
+    border-style: solid;
+    color: #000000;
+  }
+  
+  table.tamsTable td, table.tamsTable th {
+    border-width: 2px;
+    border-color: #3b3b3b;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  table.tamsTable thead {
+    background-color: #89caff;
+  }

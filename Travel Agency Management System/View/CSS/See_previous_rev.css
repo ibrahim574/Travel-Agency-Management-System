@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	
+}
+
+body, html {
+	height: 100%;
+  }
+
+body{
+	background-image: url('../images/see_prev_rev.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+    color: rgb(235, 235, 235)
+}
+
+p{
+    text-align: center;
+    color: rgb(255, 221, 221)
+}
+

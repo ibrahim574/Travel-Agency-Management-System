@@ -1,0 +1,53 @@
+
+.main{
+	background-color: #80bfff;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	max-width: 400px;
+	border-radius: 10px;
+}
+
+input{
+	margin-top: 10px;
+}
+
+
+body, html {
+	height: 100%;
+  }
+
+body{
+	background-image: url('../images/crudBg.jpg');
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+.main{
+	background-color: #80bfff;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	max-width: 400px;
+	border-radius: 10px;
+}
+
+input{
+	margin-top: 10px;
+}
+
+.back{
+	margin-top: 30px;
+	margin-right: 1800px;
+	width: 50px;
+	height: 25px;
+	align-items: center;
+	border-radius: 25px;
+	border: none;
+	background-image: linear-gradient(to right, #0f6bc0, #0f6bc0, #0f6bc0);
+	color: #fff;
+	cursor: pointer;
+  }
+
+
